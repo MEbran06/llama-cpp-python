@@ -1,3 +1,4 @@
 [submodule "vendor/llama.cpp"]
 	path = vendor/llama.cpp
-	url = https://github.com/MEbran06/llama.cpp.git
+	url = https://github.com/chanijjani/llama.cpp.git
+    branch = llm_workloads
